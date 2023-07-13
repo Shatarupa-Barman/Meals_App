@@ -60,8 +60,8 @@ hing_meals
 
 
 ## 🔗 Demo :-
-- Git Repository link :
-- Hosted Link :
+- Git Repository link: https://github.com/Shatarupa-Barman/Meals_App.git
+- Hosted Link: https://shatarupa-barman-meals-app.netlify.app
 
 
 ## 👩‍💻Author :-
